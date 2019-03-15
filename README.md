@@ -1,3 +1,2 @@
-# random-number-generator
-A simple app to generate random numbers  
-open phonegen.html in your browser to try it out
+A simple app to generate random numbers
+To test the app, simply launch the phonegen.html file from within a web browser
